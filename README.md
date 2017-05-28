@@ -16,3 +16,6 @@ WannaCry非常危险。它可以使你的数据损坏无法读取。
 
 from Zhangqirun # 来自Zhangqirun
 May 28, 2017    # 2017年5月28日
+
+# 我们上传的视频（Our video）
+http://www.bilibili.com/video/av10668054/
